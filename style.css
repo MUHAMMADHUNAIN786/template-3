@@ -1,0 +1,93 @@
+#id1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#id2{
+    height: 330px;
+    margin-left: -20px;
+
+    margin-top: -20px;
+    
+}
+#id3{
+    height: 330px;
+    margin-right: -20px;
+    margin-left: -20px;
+    width: 600px;
+}
+
+#id4{
+    width: 580px;
+    margin-top: -4px;
+    margin-left:-20px ;
+    
+}
+#id5{
+    margin-left: 560px;
+    height: 770px;
+    margin-top: -410px;
+    width: 590px;
+    
+}
+#id6{
+    height: 380px;
+    margin-top: -380px;
+    width: 580px;
+    margin-left: -20px;
+}
+#id7{
+    text-align: center;
+}
+#id8{
+    height: 350px;
+    width: 300px;
+    margin-left: 440px;
+}
+#id9{
+    width: 800px;
+    text-align: center;
+    margin-left: 210px;
+}
+body{
+    background-color: #f1f1f1;
+}
+#id10{
+    text-align: center;
+    color: #E91E63;
+}
+#id11{
+    text-align: center;
+}
+#id12{
+    margin-left: 240px;
+    width: 700px;
+    height: 30px;
+}
+#id13{
+    text-align: center;
+}
+#id14{
+    margin-left: 240px;
+    width: 700px;
+    height: 30px;
+}
+#id15{
+    text-align: center;
+}
+#id16{
+    margin-left: 240px;
+    width: 700px;
+    height: 30px;
+}
+#id17{
+    margin-left: 240px;
+    width: 700px;
+    height: 30px;
+    background-color: #616161;
+    color: #f1f1f1;
+}
+#id18{
+    text-align: center;
+}
+#id19{
+    text-align: center;
+}
